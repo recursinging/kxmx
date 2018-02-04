@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name erack)(type KiCad)(uri "$(KIPRJMOD)/libraries/erack.pretty")(options "")(descr ""))
+)
