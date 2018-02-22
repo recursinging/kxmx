@@ -1,9 +1,6 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.7-e2-6376~60~ubuntu17.10.1)
+(kicad_pcb (version 20171130) (host pcbnew no-vcs-found-a7cdd94~61~ubuntu17.10.1)
 
   (general
-    (links 0)
-    (no_connects 0)
-    (area 98.900002 16.100001 201.064286 166.900001)
     (thickness 1.6)
     (drawings 52)
     (tracks 0)
@@ -66,6 +63,9 @@
     (pcbplotparams
       (layerselection 0x00030_80000001)
       (usegerberextensions false)
+      (usegerberattributes false)
+      (usegerberadvancedattributes false)
+      (creategerberjobfile false)
       (excludeedgelayer true)
       (linewidth 0.100000)
       (plotframeref false)
@@ -75,7 +75,6 @@
       (hpglpennumber 1)
       (hpglpenspeed 20)
       (hpglpendiameter 15)
-      (hpglpenoverlay 2)
       (psnegative false)
       (psa4output false)
       (plotreference true)

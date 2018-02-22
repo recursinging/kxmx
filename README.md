@@ -1,1 +1,0 @@
-Kicad Eurorack Templates
