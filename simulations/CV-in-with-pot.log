@@ -1,0 +1,159 @@
+Circuit: * Z:\home\sam\git\personal\erack\simulations\CV-in-with-pot.asc
+
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+Gmin = 1.07374
+Gmin = 0.115292
+Gmin = 0.0123794
+Gmin = 0.00132923
+Gmin = 0.000142725
+vernier = 0.5
+vernier = 0.25
+Gmin = 3.74144e-005
+vernier = 0.125
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 3.52136e-005
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 0
+Gmin stepping failed
+
+Starting source stepping with srcstepmethod=0
+Source Step = 3.0303%
+vernier = 0.25
+Source Step = 0.0177557%
+Source Step = 0.0473485%
+Source Step = 0.0769413%
+Source Step = 0.106534%
+Source Step = 0.136127%
+Source Step = 0.16572%
+vernier = 0.00146484
+Source Step = 0.208629%
+Source Step = 0.253018%
+Source Step = 0.297408%
+Source Step = 0.341797%
+Source Step = 0.386186%
+vernier = 0.00219727
+Source Step = 0.448331%
+Source Step = 0.514915%
+Source Step = 0.581499%
+Source Step = 0.648082%
+Source Step = 0.714666%
+vernier = 0.0032959
+Source Step = 0.804554%
+Source Step = 0.90443%
+Source Step = 1.00431%
+Source Step = 1.10418%
+Source Step = 1.20406%
+vernier = 0.00494385
+Source Step = 1.3339%
+Source Step = 1.48371%
+Source Step = 1.63352%
+Source Step = 1.78334%
+Source Step = 1.93315%
+vernier = 0.00741577
+Source Step = 2.12042%
+Source Step = 2.34514%
+Source Step = 2.56986%
+Source Step = 2.79458%
+Source Step = 3.0193%
+vernier = 0.0111237
+Source Step = 3.28896%
+Source Step = 3.62604%
+Source Step = 3.96312%
+Source Step = 4.3002%
+Source Step = 4.63728%
+vernier = 0.0166855
+Source Step = 5.02493%
+Source Step = 5.53055%
+Source Step = 6.03617%
+Source Step = 6.54179%
+Source Step = 7.04741%
+vernier = 0.0250282
+Source Step = 7.60359%
+Source Step = 8.36202%
+Source Step = 9.12046%
+Source Step = 9.87889%
+Source Step = 10.6373%
+vernier = 0.0375423
+Source Step = 11.4337%
+Source Step = 12.5713%
+Source Step = 13.709%
+Source Step = 14.8466%
+Source Step = 15.9843%
+Source Step = 17.1219%
+vernier = 0.0563135
+Source Step = 18.8284%
+Source Step = 20.5348%
+Source Step = 22.2413%
+Source Step = 23.9478%
+Source Step = 25.6543%
+vernier = 0.0844703
+Source Step = 28.1286%
+Source Step = 30.6883%
+Source Step = 33.248%
+Source Step = 35.8078%
+Source Step = 38.3675%
+vernier = 0.126705
+Source Step = 41.951%
+Source Step = 45.7906%
+Source Step = 49.6302%
+Source Step = 53.4697%
+Source Step = 57.3093%
+vernier = 0.190058
+Source Step = 62.4927%
+Source Step = 68.252%
+Source Step = 74.0114%
+Source Step = 79.7707%
+Source Step = 85.53%
+vernier = 0.285087
+Source Step = 93.0172%
+Source Step = 100%
+Source Step = 99.0135%
+Source Step = 99.0472%
+Source Step = 99.081%
+Source Step = 99.1147%
+Source Step = 99.1485%
+Source Step = 99.1822%
+vernier = 0.00167043
+Source Step = 99.2244%
+Source Step = 99.275%
+Source Step = 99.3256%
+Source Step = 99.3763%
+Source Step = 99.4269%
+vernier = 0.00250565
+Source Step = 99.4876%
+Source Step = 99.5636%
+Source Step = 99.6395%
+Source Step = 99.7154%
+Source Step = 99.7913%
+vernier = 0.00375847
+Source Step = 99.8787%
+Source Step = 99.9926%
+Source stepping succeeded in finding the operating point.
+
+
+Date: Fri Feb 23 08:23:10 2018
+Total elapsed time: 0.596 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 10532
+traniter = 2368
+tranpoints = 1177
+accept = 1128
+rejected = 49
+matrix size = 37
+fillins = 18
+solver = Normal
+Thread vector: 14.8/9.8[3] 4.0/3.0[3] 2.7/3.0[1] 0.7/1.3[1]  2592/500
+Matrix Compiler1: 2.78 KB object code size  1.5/0.8/[0.6]
+Matrix Compiler2: 3.90 KB object code size  1.0/1.0/[0.8]
+

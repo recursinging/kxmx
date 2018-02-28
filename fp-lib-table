@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name krachmacher)(type KiCad)(uri "$(KIPRJMOD)/libraries/krachmacher.pretty")(options "")(descr "Krachmacher Eurorack Component Footprints"))
+)
