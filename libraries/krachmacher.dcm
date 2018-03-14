@@ -36,6 +36,12 @@ K connector
 F ~
 $ENDCMP
 #
+$CMP KRACHMACHER_POWER_01x05
+D Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)
+K connector
+F ~
+$ENDCMP
+#
 $CMP LM7805
 D Linear Regulator +5V
 K POWER REGUL
