@@ -64,4 +64,15 @@ D Double Pole Single Throw (DPST) Switch
 K switch
 $ENDCMP
 #
+$CMP PocketBeagle
+D BeagleBoard PocketBeagle
+K Beagle Pocket AM3358 AM335x OSD335x
+F https://github.com/beagleboard/pocketbeagle
+$ENDCMP
+#
+$CMP V2164
+D V2164 Quad VCA
+K VCA 2164
+$ENDCMP
+#
 #End Doc Library
