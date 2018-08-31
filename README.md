@@ -40,3 +40,18 @@ A 4x4 VCA matrix mixer based on SSM2164 clones, and has a modular design:
 * *kxmx_4x4_control_esp32* - This module controls the gain of the core using an Expressif ESP32 MCU which has WiFi and Bluetooth out of the box.  This module will make the mixer gain levels remotely controllable via MIDI or OSC.
 * *kxmx_4x4_control_cv* - This module allows the gain of the core to be controlled by TRS jack at Eurorack CV levels.
 
+### [kxmx_dsp](https://github.com/recursinging/kxmx_dsp)
+
+Experiments with DSP concepts and algorithms
+
+### [kxmx_trestle](https://github.com/recursinging/kxmx_trestle)
+
+A bi-directional OSC SLIP encoded serial to UDP bridge.
+
+## Licenses
+
+I'll try to be consistent:
+
+* Standalone software/firmware is [LGPLv3](https://www.gnu.org/licenses/lgpl-3.0.en.html)
+* Software libraries are [MIT](https://opensource.org/licenses/MIT)
+* Hardware/Media is [CC-BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/)
